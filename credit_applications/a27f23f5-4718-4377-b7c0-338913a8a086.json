@@ -1,0 +1,96 @@
+{
+    "credit_application_name": null,
+    "date": null,
+    "borrower_details": {
+        "borrower_name": "Emaar Properties",
+        "date_of_application": "1st March 2025",
+        "type_of_business": "Commercial and residential real property development",
+        "risk_rating": "Cold",
+        "new_or_existing": "Existing Customer",
+        "naics_code": "6551 \u2013 developers, Real Estate",
+        "borrower_address": "Level 7, Dubai Hills Business, Park Building 1",
+        "telephone": "+971 4 366 1688",
+        "email_address": null,
+        "fax_number": "(123)-456-7890",
+        "branch_number": "AT6789",
+        "account_number": "DB14789"
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "**Company Name:** Emaar Properties\n\n**Industry:** Real Estate and Lifestyle Development\n\n**Headquarters and Locations:** Emaar Properties is headquartered in Dubai, United Arab Emirates. The company has developed numerous iconic projects across Dubai, including Dubai Hills Estate, Dubai Creek Harbour, Emaar South, The Valley, Emaar Beachfront, and Downtown Dubai. Emaar also has international destinations and developments, expanding its footprint globally.\n\n**Products/Services:** Emaar Properties is renowned for its real estate development, focusing on creating integrated lifestyle communities. Their portfolio includes residential, commercial, and hospitality properties. Notable projects include the Burj Khalifa, the world's tallest building, and The Dubai Mall, one of the largest shopping malls globally. Emaar also operates Emaar Malls, Emaar Hospitality, and Emaar Entertainment, which manage various hotels, resorts, and entertainment venues, such as KidZania and Reel Cinemas.\n\n**Founding Year:** 1997\n\n**Company Size:** Emaar Properties is a significant player in the real estate industry, with a substantial workforce and numerous subsidiaries. It is a Public Joint Stock Company listed on the Dubai Financial Market. Emaar's revenue and employee numbers are substantial, reflecting its status as a leading developer. The company has received numerous awards, highlighting its excellence in sustainability, innovation, and customer experience.\n\nEmaar's commitment to sustainability and community engagement is evident through its corporate social responsibility initiatives, spearheaded by the Emaar Foundation."
+    },
+    "industry_analysis": {
+        "politcal": "None",
+        "economic": "None",
+        "social": "None",
+        "technological": "None",
+        "environmental": "None",
+        "legal": "None"
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "Mr. Jamal Bin Theniyah serves as the Chairman of the board. He has been a non-executive, non-independent member for 11 years, appointed on April 23, 2012. His extensive experience and leadership are pivotal to the board's strategic direction.\n\nMr. Ahmed Jawa holds the position of Vice Chairman. With 17 years on the board as a non-executive, non-independent member since March 8, 2006, he brings significant expertise and insight to the company's governance.\n\nMr. Mohamed Ali Alabbar is the Managing Director, an executive, non-independent member with 25 years of service since December 30, 1997. His long tenure reflects his deep involvement and influence in the company's operations and strategic initiatives.\n\nMr. Helal Al Marri is a non-executive, independent board member, having joined on April 11, 2021. With 1 year and 9 months on the board, he contributes fresh perspectives and independent oversight to the company's governance.\n\nMr. Buti Al Mulla, also a non-executive, independent board member, was appointed on April 11, 2021. His 1 year and 9 months of service bring valuable independent judgment and diverse viewpoints to the board.\n\nMs. Eman Abdulrazzaq, a non-executive, independent board member, joined the board on April 11, 2021. Her 1 year and 9 months of experience enhance the board's diversity and independent decision-making capabilities."
+    },
+    "financial_analysis": {
+        "ratios": null,
+        "analysis": null
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": null,
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "conclusion_and_recommendation": {
+        "relationship_managers_comments": null
+    }
+}

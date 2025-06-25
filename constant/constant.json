@@ -1,0 +1,55 @@
+{
+    "data" : [
+      {
+        "heading" : "Case Summary",
+        "questions" : [
+          {"Name of organisation" : "Describe the name of the organisation from the document, in a few words"}
+        ]
+      },
+      {
+        "heading" : "Risk asssessment",
+        "questions" : [
+          {"Summary" : "Brief descrption of financial risk assessment, in one line"}
+        ]
+      },
+      {
+        "heading" : "Business and industry analysis",
+        "questions" : [
+          {"Industry" : "Give a brief descrition of the industry segment in which this company operates in, within 200 words"}
+        ]
+      },
+      {
+        "heading" : "Underwriting considerations",
+        "questions" : [
+          {"Proposed loan" : "Give a brief one line description of borrower's cash flow and financial capacity"}
+        ]
+      },
+      {
+        "heading" : "Business Profile",
+        "questions" : [
+          "Brief description of the company in 2 lines",
+          "What is the specialization and the Unique selling proposition of the company? in 2 lines",
+          "Description on the market and the target segment company is trying to provide services to? in 2 lines",
+          "Brief Description of Competitors, Challenges , market condition and market sentiment in relation to company industry segment ?"
+        ]
+      },
+      {
+        "heading" : "Business Model",
+        "questions" : [
+          "What are the revenue streams of the company with emphasis on critical revenue? in 2 lines",
+          "Which customer segment it is Company targeting and how effective it is ? in 2 lines",
+          "What are the Key activities company performs to maintain profitability and sales? in 2 lines",
+          "What are the Channels the company uses for selling and service other than website? in 2 lines",
+          "What are the Value proposition the company is offering ? in 2 lines"
+        ]
+      },
+      {
+        "heading" : "Management Structure",
+        "questions" : [
+          "Classify the company on the basis of Size, Ownership and the type of ownership in few lines",
+          "Stake Holder's analysis for the company in few lines",
+          "Who is the CEO, Managing director, COO, CIO of the company"
+        ]
+      }
+    ]
+   }

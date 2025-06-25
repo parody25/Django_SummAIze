@@ -1,0 +1,111 @@
+{
+    "credit_application_name": "abcd",
+    "prepared_by": "John Doe",
+    "date": "2025-04-18",
+    "borrower_details": {
+        "borrower_name": "Emaar Properties",
+        "date_of_application": "1st March 2025",
+        "type_of_business": "Commercial and residential real property development",
+        "borrower_risk_rating": "Aa",
+        "new_or_existing": "Existing Customer",
+        "naics_code": "6551 \u2013 developers, Real Estate",
+        "borrower_address": "Level 7, Dubai Hills Business, Park Building 1",
+        "telephone": "+971 4 366 1688",
+        "email_address": "info@emaar.ae",
+        "fax_number": "(123)-456-7890",
+        "branch_number": "AT6789",
+        "account_number": "DB14789"
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "**Company Profile: Emaar Properties**\n\n**1. Company Name:** Emaar Properties\n\n**2. Industry:** Real Estate Development\n\n**3. Headquarters and Locations:** Emaar Properties is headquartered in Dubai, United Arab Emirates. The company has a significant presence in various countries, including Turkey, Egypt, Lebanon, India, and Pakistan, among others.\n\n**4. Products/Services:** Emaar Properties is renowned for its extensive portfolio of real estate developments, including residential, commercial, and hospitality projects. The company is involved in developing iconic landmarks such as the Burj Khalifa and The Dubai Mall. Emaar offers a variety of properties, including apartments, villas, townhouses, and luxury residences. Additionally, Emaar operates in retail through Emaar Malls, hospitality via Address Hotels + Resorts, and entertainment with attractions like Dubai Aquarium and Underwater Zoo.\n\n**5. Founding Year:** Emaar Properties was founded in 1997.\n\n**6. Company Size:** Emaar Properties is a major player in the real estate industry, with a net asset value of AED 177.5 billion (USD 48.3 billion) as of December 2023. The company employs a large workforce and has numerous subsidiaries, including Emaar Malls, Emaar Hospitality, and Emaar Entertainment. Emaar is publicly traded on the Dubai Financial Market, reflecting its significant market presence and financial strength.\n\nEmaar Properties is recognized for its commitment to design excellence, build quality, and timely delivery, making it one of the most admired real estate developers globally."
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": null
+    },
+    "financial_analysis": {
+        "ratios": null,
+        "analysis": null
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": null,
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": "### Risk Analysis Commentary for Emaar Properties\n\n#### Credit Score Trend Analysis\nOver the past eight months, Emaar Properties has shown a fluctuating credit score trend. The company's credit score improved significantly from a low of 13 in July 2024 to a high of 65 in December 2024, before stabilizing at 60 in February 2025. This indicates a transition from a high-risk category to a low to medium risk category. Compared to the industry average, Emaar's score has consistently been higher, suggesting better creditworthiness relative to its peers.\n\n#### Financial Stability Risk\nEmaar Properties has a Financial Stability Risk Rating of 1, indicating a low risk of payment default or bankruptcy within the next 12 months. This rating places the company in the most favorable category, suggesting strong financial health and stability.\n\n#### Days Beyond Terms (DBT) Analysis\nThe company's current DBT is 60 days, significantly higher than the industry average of 15 days. This indicates that Emaar Properties is paying its bills much later than its industry counterparts, which could be a concern for creditors and suppliers. The DBT has remained constant over the past two months, suggesting no recent improvement in payment timeliness.\n\n#### Payment Trend Analysis\nThe payment trend for Emaar Properties shows a mixed pattern. While the company maintained a high current payment rate of 98-100% over the past six months, there was a slight increase in the 31-60 DBT category in February 2025. This suggests a minor deterioration in payment timeliness, although the overall payment pattern remains relatively stable.\n\n#### Legal Judgments\nThere is one pending legal judgment against Emaar Properties, filed on 11th March 2015 in Dubai, with a liability amount of AED 2675. While the amount is relatively small, the existence of a judgment could impact the company's credit profile.\n\n### Conclusion\nEmaar Properties exhibits a stable credit profile with a low financial stability risk. However, the high DBT and pending legal judgment are areas that may require attention to ensure continued financial health and improved creditworthiness."
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": "### Justification for RISK ANALYSIS SECTION\nCustomer risk score is 60, which is satisfactory and potentially risky to lend.\n\n### Justification for SECURITY\nReal estate security information is not provided, so the collateral assessment cannot be determined.\n\n### Justification for FINANCIAL ANALYSIS\nFinancial analysis information is not provided, so the assessment of covenant thresholds and financial position cannot be determined.",
+        "relationship_managers_comments": null
+    }
+}

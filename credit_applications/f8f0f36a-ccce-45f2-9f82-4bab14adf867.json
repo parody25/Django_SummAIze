@@ -1,0 +1,111 @@
+{
+    "credit_application_name": null,
+    "prepared_by": "John Doe",
+    "date": null,
+    "borrower_details": {
+        "borrower_name": null,
+        "date_of_application": null,
+        "type_of_business": null,
+        "borrower_risk_rating": null,
+        "new_or_existing": null,
+        "naics_code": null,
+        "borrower_address": null,
+        "telephone": null,
+        "email_address": null,
+        "fax_number": null,
+        "branch_number": null,
+        "account_number": null
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": null
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": null
+    },
+    "financial_analysis": {
+        "ratios": null,
+        "analysis": null
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": null,
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": null
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": null,
+        "relationship_managers_comments": null
+    }
+}

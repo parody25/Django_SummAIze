@@ -1,0 +1,111 @@
+{
+    "credit_application_name": "Emaar",
+    "prepared_by": "John Doe",
+    "date": "March 22nd",
+    "borrower_details": {
+        "borrower_name": "",
+        "date_of_application": "26th March, 2025",
+        "type_of_business": "",
+        "borrower_risk_rating": null,
+        "new_or_existing": "Existing",
+        "naics_code": "",
+        "borrower_address": "",
+        "telephone": null,
+        "email_address": "a@b.com",
+        "fax_number": "",
+        "branch_number": "",
+        "account_number": ""
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "**Company Name:** Lincoln Electric\n\n**Industry:** Manufacturing (Arc Welding and Cutting)\n\n**Headquarters and Locations:** Lincoln Electric is headquartered in Cleveland, Ohio, U.S.A. The company operates globally, providing products and services worldwide.\n\n**Products/Services:** Lincoln Electric is renowned for its expertise in arc welding and cutting. The company offers a comprehensive portfolio of solutions, including welding equipment, electrodes, and advanced welding training systems. Lincoln Electric is also heavily involved in welding education, providing curriculum and resources to support the development of skilled welders.\n\n**Founding Year:** 1895\n\n**Company Size:** Lincoln Electric is a significant player in the welding industry, recognized as a global leader. While specific revenue figures are not provided in the text, the company's extensive operations and global reach suggest substantial revenue. The company employs a large team of experts and has numerous subsidiaries worldwide, contributing to its status as a leader in innovation and operational excellence.\n\nLincoln Electric has a rich history of over 125 years, marked by innovation and a commitment to advancing the welding industry. The company was founded by John C. Lincoln and James F. Lincoln, whose legacy continues to influence its culture and values. Lincoln Electric remains dedicated to delivering measurable value to its customers and advancing the welding profession through education and technological advancements."
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "Hello!"
+    },
+    "financial_analysis": {
+        "ratios": null,
+        "analysis": null
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": "Call the cops!",
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": null
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": null,
+        "relationship_managers_comments": null
+    }
+}

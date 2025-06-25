@@ -1,0 +1,19 @@
+Retrieve sections of the document that contain detailed financial disclosures and explanations related to the consolidated financial statements. These sections typically include:
+
+- Revenue recognition policies and revenue breakdowns by product, geography, or segment
+- Accounting policies for assets, liabilities, equity, and financial instruments
+- Breakdown and valuation details of property, plant, and equipment
+- Details on intangible assets and goodwill, including impairment testing
+- Lease accounting and commitments related to operating or finance leases
+- Share capital movements, equity compensation, stock options, and dividends
+- Breakdown of current and deferred taxes, tax reconciliation, and tax contingencies
+- Inventory valuation methods and inventory-related disclosures
+- Provisions, contingent liabilities, and legal proceedings
+- Related party transactions, including nature, amounts, and balances
+- Segment reporting by business line or geography
+- Risk management disclosures (e.g., credit, market, currency, and liquidity risk)
+- Pension plans and employee benefit obligations
+- Financial instrument classifications, fair value hierarchy, and hedging activities
+- Subsequent events occurring after the reporting period
+
+Focus on extracting detailed, structured or narrative explanations that accompany the consolidated financial statements. Exclude introductory, summary, or boilerplate content.

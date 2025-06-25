@@ -1,0 +1,18 @@
+Retrieve sections of the document that provide detailed breakdowns, explanations, or disclosures related to the financial statements. Specifically, look for content that includes:
+
+- Revenue breakdowns by product line, region, or business segment
+- Cost structure or inventory accounting details
+- Depreciation and amortization methods and schedules
+- Details on property, plant, and equipment
+- Goodwill and intangible asset valuations
+- Financial risk disclosures (e.g., credit, liquidity, market risk)
+- Share capital structure, stock options, and equity movements
+- Income tax disclosures, deferred taxes, and reconciliation of effective tax rates
+- Related party transactions and outstanding obligations
+- Provisions, contingencies, and legal matters
+- Leases, commitments, and off-balance sheet items
+- Pension or employee benefit obligations
+- Segment reporting (operational/geographical)
+- Subsequent events after reporting date
+
+Do not include summary headers or section titles — focus on the substance of the disclosures and detailed explanatory content.

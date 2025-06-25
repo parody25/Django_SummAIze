@@ -1,0 +1,111 @@
+{
+    "credit_application_name": "Lincoln Electric Credit Application",
+    "prepared_by": "John Doe",
+    "date": "2025-05-20",
+    "borrower_details": {
+        "borrower_name": "Lincoln Electric",
+        "date_of_application": "1st March 2025",
+        "type_of_business": "Design, development and manufacture of arc welding products, automated joining, assembly and cutting systems",
+        "borrower_risk_rating": "Aa1",
+        "new_or_existing": "Existing Customer",
+        "naics_code": "3548 - Electric and Gas Welding and Soldering Equipment",
+        "borrower_address": "22801 St Clair Ave, Cleveland, OH 44117, USA",
+        "telephone": "216 383 2534",
+        "email_address": "info@lincolnelectric.in",
+        "fax_number": "123-456-7890",
+        "branch_number": "AT 6790",
+        "account_number": "DB14789"
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "**Company Name:** Lincoln Electric\n\n**Industry:** Manufacturing (Arc Welding and Cutting)\n\n**Headquarters and Locations:** Lincoln Electric is headquartered in Cleveland, Ohio, U.S.A. The company operates globally, providing products and services worldwide.\n\n**Products/Services:** Lincoln Electric is renowned for its expertise in arc welding and cutting. The company offers a comprehensive portfolio of solutions, including welding equipment, electrodes, and advanced welding training systems. Lincoln Electric is also heavily involved in welding education, providing curriculum and resources to support the development of skilled welders.\n\n**Founding Year:** 1895\n\n**Company Size:** Lincoln Electric is a significant player in the welding industry, recognized as a global leader. While specific revenue figures are not provided in the text, the company's extensive operations and global reach suggest substantial revenue. The company employs a large team of experts and has numerous subsidiaries worldwide, contributing to its status as a leader in innovation and operational excellence.\n\nLincoln Electric has a rich history of over 125 years, marked by innovation and a commitment to advancing the welding industry. The company was founded by John C. Lincoln and James F. Lincoln, whose legacy continues to influence its culture and values. Lincoln Electric remains dedicated to delivering measurable value to its customers and advancing the welding profession through education and technological advancements."
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "Here are the summarized profiles of the key management people from the Board of Directors:\n\n1. **Brian D. Chambers**: Brian D. Chambers serves as a member of the Board since 2022 and is involved in the Compensation & Executive Development Committee. He holds a position in the Finance Committee as well. His professional background includes serving as Chair, President, and CEO of Owens Corning.\n\n2. **Curtis E. Espeland**: Curtis E. Espeland is the Lead Independent Director, having joined the Board in 2012. He is part of the Audit Committee and the Finance Committee. Previously, he was the Executive Vice President and CFO at Eastman Chemical Company.\n\n3. **N. Joy Falotico**: N. Joy Falotico, a Board member since 2025, is involved in the Compensation & Executive Development Committee and the Finance Committee. She has served as the President of The Lincoln Motor Company.\n\n4. **Bonnie J. Fetch**: Bonnie J. Fetch joined the Board in 2023 and is part of the Compensation & Executive Development Committee. She is the Executive Vice President and President of Operations at Cummins Inc.\n\n5. **Patrick P. Goris**: Patrick P. Goris has been on the Board since 2018, participating in the Compensation & Executive Development Committee. He is the Senior Vice President and CFO.\n\n6. **Steven B. Hedlund**: Steven B. Hedlund, the Chair of the Board since 2024, is also the President and CEO of Lincoln Electric Holdings, Inc.\n\n7. **Michael F. Hilton**: Michael F. Hilton, a Board member since 2015, is part of the Audit and Compensation & Executive Development Committees. He is the retired President and CEO of Nordson Corporation.\n\n8. **Marc A. Howze**: Marc A. Howze joined the Board in 2023 and serves on the Audit Committee and the Nominating & Corporate Governance Committee. He was a Senior Advisor at Deere & Company.\n\n9. **Kathryn Jo Lincoln**: Kathryn Jo Lincoln has been on the Board since 1995, serving on the Audit and Nominating & Corporate Governance Committees. She is the Chair and former Chief Investment Officer at the Lincoln Institute of Land Policy.\n\n10. **Phillip J. Mason**: Phillip J. Mason, a Board member since 2013, is part of the Audit and Nominating & Corporate Governance Committees. He is the retired President of the Ecolab EMEA sector.\n\n11. **Ben P. Patel**: Ben P. Patel has been on the Board since 2018, involved in the Compensation & Executive Development and Nominating & Corporate Governance Committees. He was the Chief Innovation and Science Officer at Smurfit Westrock."
+    },
+    "financial_analysis": {
+        "ratios": "",
+        "analysis": "### Financial Analysis Commentary\n\n#### 1. Current Ratio Analysis\nThe current ratio for the borrower stands at 1.5, indicating a healthy liquidity position where current assets exceed current liabilities by 50%. This suggests that the company is well-positioned to cover its short-term obligations. \n\n- **Trade Receivables and Payables**: There has been a noticeable change in trade receivables and payables compared to the previous year. Trade receivables have decreased by approximately 10%, reflecting improved collection efficiency or a reduction in sales on credit. Conversely, trade payables have increased by 5%, which may indicate extended payment terms with suppliers or increased purchasing activity.\n  \n- **Percentage Increase/Decrease**: The decrease in trade receivables and the increase in trade payables have contributed to the overall improvement in the current ratio. Specifically, trade receivables decreased by $56,851 (from $538,830 to $481,979), while trade payables decreased by $28,845 (from $325,435 to $296,590).\n\n- **Due Within vs. After 12 Months**: The majority of trade receivables and payables are due within 12 months, aligning with typical business cycles. There are no significant long-term receivables or payables reported.\n\n- **Bad Debts or Impairments**: The allowance for doubtful accounts increased slightly from $11,464 to $12,674, indicating a cautious approach to potential credit losses. This suggests a minor increase in perceived credit risk compared to the previous year.\n\n#### 2. Debt to Equity Ratio Analysis\nThe debt-to-equity ratio is calculated at 0.4, reflecting a conservative capital structure with a relatively low level of debt compared to equity.\n\n- **Components of Loans and Borrowings**: Total borrowings have increased by 14% year-over-year, primarily due to new long-term debt issuance. Short-term debt increased significantly from $2,439 to $110,524, while long-term debt increased from $1,102,771 to $1,150,551.\n\n- **Total Change and Percentage**: The total debt increased by $155,865, representing a 14.1% increase from the previous year.\n\n- **Loan Instruments**: The increase in short-term debt suggests a strategic move to leverage short-term financing, possibly for working capital needs or to take advantage of favorable interest rates.\n\n- **New Loans and Repayments**: The company secured a new long-term loan of $550,000, while repayments on existing long-term borrowings amounted to $400,677, indicating active debt management.\n\n#### 3. Interest Coverage Ratio Analysis\nThe interest coverage ratio is robust at 21, indicating a strong ability to meet interest obligations from operating profits.\n\n- **Changes in Finance Costs**: Finance costs decreased slightly from $44,371 to $42,786, reflecting effective interest rate management or reduced reliance on high-cost debt.\n\n- **Current Year vs. Prior Year**: The slight decrease in finance costs, coupled with stable operating income, has improved the interest coverage ratio from the previous year.\n\n- **Implications on Debt Servicing**: The high interest coverage ratio suggests that the company is well-positioned to service its debt, providing a cushion against potential interest rate increases or economic downturns.\n\n#### 4. Total Revenue (Growth) Analysis\nTotal revenue experienced a 4.4% decline, decreasing from $4,191,636 to $4,008,670.\n\n- **% Change in Total Revenue**: The 4.4% decrease in revenue is primarily attributed to a decline in sales volume or pricing pressures in key markets.\n\n- **Revenue Breakdown**: \n  - **Americas Welding**: Revenue decreased slightly, reflecting stable demand in the region.\n  - **International Welding**: Revenue declined, possibly due to unfavorable currency exchange rates or geopolitical factors.\n  - **Products Group**: Revenue remained relatively stable, indicating consistent demand for the product line.\n\n- **Component\u2019s Share in Total Revenue**: The Americas Welding segment remains the largest contributor to total revenue, followed by International Welding and Products Group. Each segment's performance reflects broader market conditions and strategic initiatives.\n\nOverall, the borrower demonstrates a solid financial position with strong liquidity and debt servicing capabilities, despite a slight decline in revenue. The strategic management of debt and effective cost control measures provide a stable foundation for future growth and financial stability."
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": "The real estate valuation report for the property located at 604, Al Barsha Business Centre, Al Barsha 1, Dubai, UAE, provides an assessment of its market value. The property is described as a commercial building with multiple structures, including several buildings with individual valuations. The reconciled opinion of the property's current market value is five million dollars. The estimated marketing time for the property is between 9 to 12 months.",
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": "### Risk Analysis Commentary for Lincoln Electric\n\n#### Credit Score Trend Analysis\nOver the past eight months, Lincoln Electric's credit score has shown significant fluctuations. Starting at a low of 13 in July 2024, the score improved to 65 in December 2024, before stabilizing at 60 in the most recent month. This indicates a recovery from a period of higher risk. Compared to the industry average, Lincoln Electric's current score of 60 is above the industry average of 48, suggesting a relatively better credit position within its sector.\n\n#### Financial Stability Risk\nLincoln Electric has a Financial Stability Risk Rating of 1, indicating a low risk of payment default or bankruptcy within the next 12 months. This rating is the most favorable, reflecting strong financial health and stability, which is a positive indicator for stakeholders.\n\n#### Days Beyond Terms (DBT) Analysis\nThe company's current DBT is 60 days, significantly higher than the industry average of 15 days. This suggests that Lincoln Electric is consistently late in settling its debts, which could be a concern for creditors. The DBT has remained at 60 days for the past two months, indicating a persistent issue in timely payments.\n\n#### Payment Trend Analysis\nThe payment trend over the last six months shows a stable pattern with a high percentage of current payments. However, there was a notable increase in the 0-30 DBT category in December 2024, which has since been resolved. The overall payment pattern suggests stability, but the persistent high DBT indicates room for improvement in payment timeliness.\n\n#### Legal Judgments\nThere is one pending legal judgment against Lincoln Electric, filed on 11th March 2015 in Dubai, with a liability amount of USD 2,675. While this is a relatively small amount, it is important for the company to address this to avoid potential legal complications.\n\n### Conclusion\nLincoln Electric demonstrates a strong credit position and financial stability, outperforming industry averages. However, the high DBT is a concern that needs addressing to improve payment practices. The company should focus on resolving outstanding legal judgments and enhancing its payment timeliness to maintain its favorable credit standing."
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": "**Justification for RISK ANALYSIS SECTION:** Customer risk score is 60, which is satisfactory and potentially risky to lend.\n\n**Justification for SECURITY:** Real estate security has an estimated market value of $5,000,000, which is good and sufficient for the loan, and no more collateral is needed.\n\n**Justification for FINANCIAL ANALYSIS:** Covenants for all ratios are met in forecast models, and the financial position seems strong.",
+        "relationship_managers_comments": null
+    }
+}

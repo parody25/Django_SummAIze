@@ -1,0 +1,9 @@
+Generate a commentary on the risk analysis of the company from its credit report covering the following aspects::
+Credit score trend analysis as well as a comparison assessment of the company with the average in its industry, based on values from last eight months
+Analysis of the financial stability risk of the company 
+Analyze the days beyond term and provide a commentary on it
+Analyze the payment trend of the company whether its improving or declining or stable, based on payment pattern and DBT (days beyond terms) of last six months. "Days Beyond Terms" (DBT) refers to the average number of days a business pays its bills after the invoice due date, indicating how late a company is in settling its debts. 
+Mention any pending legal judgements pending against the company
+
+### Context in the below format
+'{report_context}'

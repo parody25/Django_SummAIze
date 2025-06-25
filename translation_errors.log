@@ -1,0 +1,23 @@
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\views.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\scraperModule.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\scraperModule.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\scraperModule.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\scraperModule.py changed, reloading.
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\scraperModule.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\azureAITranslate.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\azureAITranslate.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+ERROR:django.request:Internal Server Error: /api/webscrapping/
+INFO:django.utils.autoreload:C:\Users\policyadmin\Repositories\Azure Devops Django SummAIze\summAize_backend\api\views.py changed, reloading.

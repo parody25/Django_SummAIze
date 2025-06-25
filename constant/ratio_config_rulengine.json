@@ -1,0 +1,40 @@
+{
+    "Working Capital (Current) Ratio": {
+        "rule_type": "minimum",
+        "questions": [
+            "What is the total value of your current assets (e.g. cash, receivables, inventory) as of the most recent reporting period?",
+            "What are your current liabilities, such as short-term debt, accounts payable, and accrued expenses?",
+            "Have there been any significant changes in your working capital in the last 12 months?",
+            "Are there any unusual or non-recurring items included in your current assets or liabilities?"
+        ]
+    },
+    "Total Liabilities/Equity": {
+        "rule_type": "maximum",
+        "questions": [
+            "What is your total outstanding debt, including both short-term and long-term liabilities?",
+            "How much of your capital is financed through equity versus debt?",
+            "Has there been any recent capital injection or withdrawal?",
+            "Are there any off-balance sheet obligations or guarantees that should be considered?"
+        ]
+    },
+    "Funded Debt/EBITDA": {
+        "rule_type": "maximum",
+        "questions": [
+            "What is your total funded debt (i.e., interest-bearing debt with a maturity over one year)?",
+            "Can you break down your debt between secured and unsecured obligations?",
+            "What is your EBITDA for the trailing twelve months (TTM)?",
+            "Are there any covenant adjustments to EBITDA (e.g., add-backs for one-time expenses)?",
+            "Have there been any recent significant changes to your capital structure?"
+        ]
+    },
+    "Debt Service Coverage Ratio (DSCR)": {
+        "rule_type": "minimum",
+        "questions": [
+            "What was your Earnings Before Interest and Taxes (EBIT) for the most recent year or quarter?",
+            "What is the total amount of debt service due during the year (i.e., scheduled principal and interest payments)?",
+            "Do you have any balloon payments or lump-sum obligations due within the next 12 months?",
+            "Are there any non-operating income or expenses that should be excluded from EBITDA?",
+            "Have any debt repayments been deferred or restructured?"
+        ]
+    }
+}

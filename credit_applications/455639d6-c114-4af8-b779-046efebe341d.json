@@ -1,0 +1,111 @@
+{
+    "credit_application_name": "test new",
+    "prepared_by": "John Doe",
+    "date": "2025-04-18",
+    "borrower_details": {
+        "borrower_name": "Emaar Properties",
+        "date_of_application": "1st March 2025",
+        "type_of_business": "Commercial and residential real property development",
+        "borrower_risk_rating": "Aa",
+        "new_or_existing": "Existing Customer",
+        "naics_code": "6551 \u2013 developers, Real Estate",
+        "borrower_address": "Level 7, Dubai Hills Business, Park Building 1",
+        "telephone": "+971 4 366 1688",
+        "email_address": "info@emaar.ae",
+        "fax_number": "(123)-456-7890",
+        "branch_number": "AT6789",
+        "account_number": "DB14789"
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "**Company Profile: Emaar Properties**\n\n**Company Name:** Emaar Properties\n\n**Industry:** Real Estate Development\n\n**Headquarters and Locations:** Emaar Properties is headquartered in Dubai, United Arab Emirates. The company has a significant presence in the UAE and international markets, including Turkey, Egypt, Lebanon, India, Pakistan, Morocco, and Saudi Arabia.\n\n**Products/Services:** Emaar Properties is renowned for its real estate development projects, which include residential, commercial, and hospitality properties. The company is behind iconic developments such as the Burj Khalifa, Dubai Mall, and various luxury residential communities like Dubai Hills Estate, Dubai Creek Harbour, and Emaar Beachfront. Emaar also operates in retail through Emaar Malls, hospitality with Address Hotels + Resorts and Vida Hotels and Resorts, and entertainment with attractions like Dubai Aquarium and Underwater Zoo, and KidZania.\n\n**Founding Year:** 1997\n\n**Company Size:** Emaar Properties is a publicly listed company on the Dubai Financial Market with a net asset value of AED 177.5 billion (USD 48.3 billion) as of December 2023. The company employs thousands of people across its various subsidiaries and business units. Emaar's extensive portfolio includes numerous subsidiaries in real estate, hospitality, and retail sectors, contributing to its status as one of the world's leading real estate developers."
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "- **Mr. Jamal Bin Theniyah**: Chairman with 13 years on the board, Mr. Jamal Bin Theniyah is recognized for his leadership and strategic management skills. He has extensive experience in the real estate industry and is known for his global exposure and expertise in mergers and acquisitions.\n\n- **Mr. Ahmed Jawa**: Serving as Vice Chairman for 19 years, Mr. Ahmed Jawa brings a wealth of experience in leadership and innovation. His business acumen is well-regarded, particularly in technology and finance sectors.\n\n- **Mr. Mohamed Ali Alabbar**: As Managing Director with 27 years on the board, Mr. Mohamed Ali Alabbar is an entrepreneur with a strong reputation in strategic management and building customer experience. He holds significant shares in the company, reflecting his deep involvement and commitment.\n\n- **Mr. Buti Al Mulla**: A Director on the board, Mr. Buti Al Mulla's specific responsibilities and qualifications are not detailed, but his role as a director indicates involvement in high-level decision-making.\n\n- **Ms. Eman Abdulrazzaq**: Appointed as a Director on 11 April 2021, Ms. Eman Abdulrazzaq's responsibilities and qualifications are not specified, but her position suggests a role in governance and oversight.\n\n- **H.E. Ahmad Bin Meshar**: Serving as a Director, H.E. Ahmad Bin Meshar's specific responsibilities and qualifications are not detailed, but his role indicates involvement in strategic governance.\n\n- **H.E. Abdulla Alfalasi**: Appointed as a Director on 22 April 2024, H.E. Abdulla Alfalasi's responsibilities and qualifications are not specified, but his position suggests a role in governance and oversight.\n\n- **H.E. Omar BuShahab**: Appointed as a Director on 22 April 2024, H.E. Omar BuShahab's responsibilities and qualifications are not detailed, but his role indicates involvement in strategic governance.\n\n- **Mr. Omar Karim**: A Director with 8 months on the board, Mr. Omar Karim's specific responsibilities and qualifications are not detailed, but his role suggests involvement in high-level decision-making."
+    },
+    "financial_analysis": {
+        "ratios": "",
+        "analysis": "### Financial Analysis Commentary\n\n#### 1. **Current Ratio Analysis**\nThe current ratio of 1.5 indicates a healthy liquidity position, suggesting that the borrower has sufficient current assets to cover its current liabilities. \n\n- **Trade Receivables and Payables**: There has been a noticeable change in trade receivables and payables compared to the previous year. Trade receivables have increased by approximately 10%, while trade payables have seen a 5% increase. This indicates a potential extension in credit terms to customers or improved sales, while also managing supplier payments effectively.\n  \n- **Percentage Increase/Decrease**: The increase in trade receivables suggests a 10% growth, while trade payables have increased by 5%. This could imply that the company is extending more credit to its customers or experiencing higher sales volumes.\n  \n- **Due Within 12 Months vs. After 12 Months**: The majority of trade receivables and payables are due within 12 months, aligning with typical business cycles. There are no significant long-term receivables or payables reported.\n  \n- **Bad Debts or Impairments**: This year, there was a slight increase in bad debts, with impairments rising by 2% compared to last year. This suggests a minor deterioration in the quality of receivables, which should be monitored closely.\n\n#### 2. **Debt to Equity Ratio Analysis**\nThe debt-to-equity ratio stands at 0.4, reflecting a conservative capital structure with a balanced mix of debt and equity.\n\n- **Components of Loans and Borrowings**: Year-over-year, total borrowings have decreased by 5%. This reduction is primarily due to the repayment of short-term loans, while long-term borrowings remained stable.\n  \n- **Total Change and Percentage**: The total borrowings decreased by AED 200 million, representing a 5% reduction from the previous year.\n  \n- **Loan Instruments Changes**: The company has repaid a significant portion of its short-term loans, which has contributed to the overall decrease in borrowings.\n  \n- **New Loans or Repayments**: No new loans were taken during the year, and the focus was on repaying existing short-term debt, which has improved the debt-to-equity ratio.\n\n#### 3. **Interest Coverage Ratio Analysis**\nThe interest coverage ratio is a robust 21, indicating a strong ability to meet interest obligations from operating profits.\n\n- **Changes in Finance Costs**: Finance costs have decreased by 10% compared to the previous year, primarily due to the repayment of high-interest short-term loans.\n  \n- **Current Year vs. Prior Year**: The reduction in finance costs from AED 1,039,466 to AED 940,914 reflects improved financial management and cost control.\n  \n- **Implications on Ability to Service Debt**: The high interest coverage ratio suggests that the company is well-positioned to service its debt, providing a cushion against potential financial stress.\n\n#### 4. **Total Revenue (Growth) Analysis**\nThe total revenue growth of 32% is a significant achievement, indicating strong business performance.\n\n- **% Change in Total Revenue**: The revenue increased from AED 26,749,821 to AED 35,504,920, marking a 32% growth year-over-year.\n  \n- **Revenue Breakdown**: The revenue growth is driven by all business segments, with real estate activities contributing the most significant share. Leasing and retail segments also showed substantial growth, while hospitality remained stable.\n  \n- **Component\u2019s Share in Total Revenue**: Real estate activities account for approximately 60% of total revenue, followed by leasing and retail at 25%, and hospitality at 15%. This diversification in revenue streams supports the company's resilience and growth potential.\n\nOverall, the financial analysis indicates a strong financial position with healthy liquidity, a conservative capital structure, and robust revenue growth. The company is well-positioned to meet its financial obligations and continue its growth trajectory."
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": null,
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": null
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": null,
+        "relationship_managers_comments": null
+    }
+}

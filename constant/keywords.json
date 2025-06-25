@@ -1,0 +1,10 @@
+{
+    "keywords": {
+        "balance_sheet": ["current assets", "current liabilities", "debt", "equity", "income"],
+        "annual_report": ["revenue", "profit margin", "expenses", "liquidity", "EBITDA", "PAT Margin"],
+        "financial_statement":["equity","debt"],
+        "appraisal_report":["appraisal","real estate","owner"],
+        "aging_report":["Nebula Ltd"]
+    },
+    "validation_threshold": 50
+}

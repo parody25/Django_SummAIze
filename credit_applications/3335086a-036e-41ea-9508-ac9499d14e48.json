@@ -1,0 +1,111 @@
+{
+    "credit_application_name": "Credit application version 1",
+    "prepared_by": "John Doe",
+    "date": "2025-04-21",
+    "borrower_details": {
+        "borrower_name": "Emaar Properties",
+        "date_of_application": "1st March 2025",
+        "type_of_business": "Commercial and residential real property development",
+        "borrower_risk_rating": "Aa",
+        "new_or_existing": "Existing Customer",
+        "naics_code": "6551 \u2013 developers, Real Estate",
+        "borrower_address": "Level 7, Dubai Hills Business, Park Building 1",
+        "telephone": "+971 4 366 1688",
+        "email_address": "info@emaar.ae",
+        "fax_number": "(123)-456-7890",
+        "branch_number": "AT6789",
+        "account_number": "DB14789"
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "**Company Name:** Emaar Properties\n\n**Industry:** Real Estate Development\n\n**Headquarters and Locations:** Emaar Properties is headquartered in Dubai, United Arab Emirates. The company has a significant presence in various international markets, including Turkey, Egypt, Lebanon, India, and Pakistan.\n\n**Products/Services:** Emaar Properties is renowned for its comprehensive real estate development services, which include residential, commercial, and hospitality projects. The company is involved in the development of master-planned communities, shopping malls, hotels, and leisure destinations. Notable projects include the Burj Khalifa, Dubai Mall, and various luxury residential communities such as Dubai Hills Estate, Dubai Creek Harbour, and Emaar Beachfront. Emaar also operates in the hospitality sector with brands like Address Hotels + Resorts and Vida Hotels and Resorts.\n\n**Founding Year:** Emaar Properties was founded in 1997.\n\n**Company Size:** Emaar Properties is a publicly listed company on the Dubai Financial Market, with a net asset value of AED 177.5 billion (USD 48.3 billion) as of December 2023. The company employs thousands of people across its various subsidiaries and divisions, including Emaar Hospitality, Emaar Malls, and Emaar Entertainment. Emaar is recognized as one of the world's leading real estate developers, with numerous awards and accolades for its innovative and sustainable building practices."
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "Based on the provided content, here are the summarized profiles of the key management people from the Board of Directors:\n\n- **Mr. Buti AlMulla**\n  - **Position**: Board Member\n  - **Responsibilities**: Not specified\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 3 years and 9 months on the Board\n  - **Business Acumen/Reputation**: Not specified\n\n- **Ms. Eman Abdulrazzaq**\n  - **Position**: Board Member\n  - **Responsibilities**: Not specified\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 3 years and 9 months on the Board\n  - **Business Acumen/Reputation**: Not specified\n\n- **H.E. Abdulla Alfalasi**\n  - **Position**: Board Member\n  - **Responsibilities**: Chairman of the Nomination and Remuneration Committee\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 8 months on the Board\n  - **Business Acumen/Reputation**: Not specified\n\n- **H.E. Ahmad Bin Meshar**\n  - **Position**: Board Member\n  - **Responsibilities**: Not specified\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 8 months on the Board\n  - **Business Acumen/Reputation**: Not specified\n\n- **H.E. Omar BuShahab**\n  - **Position**: Board Member\n  - **Responsibilities**: Member of the Investment Committee\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: Not specified\n  - **Business Acumen/Reputation**: Not specified\n\n- **Mr. Omar Karim**\n  - **Position**: Board Member\n  - **Responsibilities**: Not specified\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: Not specified\n  - **Business Acumen/Reputation**: Not specified\n\n- **Mr. Jamal Bin Theniyah**\n  - **Position**: Chairman\n  - **Responsibilities**: Not specified\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 13 years on the Board\n  - **Business Acumen/Reputation**: Leadership, Innovation, Technology, Finance, Management, Global Exposure, Real Estate Industry Experience, Mergers and Acquisitions, Strategic Management, Building Customer\n\n- **Mr. Ahmed Jawa**\n  - **Position**: Board Member\n  - **Responsibilities**: Member of the Nomination and Remuneration Committee\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 19 years on the Board\n  - **Business Acumen/Reputation**: Not specified\n\n- **Mr. Mohamed Alabbar**\n  - **Position**: Board Member\n  - **Responsibilities**: Chairman of the Investment Committee\n  - **Highest Qualification**: Not specified\n  - **Work Experience**: 27 years on the Board\n  - **Business Acumen/Reputation**: Not specified\n\nThis summary includes the available information from the provided content. If any details are missing, they were not present in the content provided."
+    },
+    "financial_analysis": {
+        "ratios": "",
+        "analysis": "### Current Ratio Analysis\n\nThe current ratio for the borrower stands at 1.5, indicating a healthy liquidity position. This ratio suggests that the company has 1.5 times more current assets than current liabilities, which is a positive sign for short-term financial health. \n\n- **Trade Receivables and Trade Payables**: There has been a decrease in trade receivables from AED 17,255,072 in 2023 to AED 15,484,276 in 2024, reflecting a decrease of approximately 10.3%. This suggests improved collection efficiency or a reduction in sales on credit. On the other hand, trade payables have increased from AED 14,737,470 in 2023 to AED 17,570,826 in 2024, marking a 19.2% increase. This could indicate extended payment terms with suppliers or increased purchasing activity.\n\n- **Due Within 12 Months vs. After 12 Months**: The majority of trade receivables and payables are expected to be settled within 12 months, as they are typically classified as current assets and liabilities. However, specific details on the maturity profile are not provided.\n\n- **Bad Debts or Impairments**: There is no explicit mention of bad debts or impairments in the current year compared to the previous year. However, the decrease in trade receivables might suggest effective management of credit risk.\n\n### Debt to Equity Ratio Analysis\n\nThe debt-to-equity ratio is calculated at 0.4, indicating a conservative capital structure with a relatively low level of debt compared to equity.\n\n- **Components of Loans and Borrowings**: The total borrowings have decreased from AED 12,271 Mn in 2023 to AED 9,686 Mn in 2024, a reduction of approximately 21.1%. This decrease is primarily due to the repayment of sukuk and other interest-bearing loans.\n\n- **Loan Instruments Changes**: The significant change is observed in the sukuk, which decreased from AED 9,171,882 in 2023 to AED 6,421,094 in 2024. This indicates a repayment or refinancing of sukuk.\n\n- **New Loans or Repayments**: The company has made substantial repayments, particularly in sukuk and other interest-bearing loans, which has contributed to the overall reduction in borrowings.\n\n### Interest Coverage Ratio Analysis\n\nThe interest coverage ratio is calculated at 21, indicating a strong ability to cover interest expenses with operating profits.\n\n- **Changes in Finance Costs**: Finance costs have decreased from AED 1,039,466 in 2023 to AED 940,914 in 2024, reflecting a reduction of approximately 9.5%. This decrease is likely due to the reduction in borrowings and possibly lower interest rates on existing debt.\n\n- **Implications on Ability to Service Debt**: The high interest coverage ratio suggests that the company is well-positioned to meet its interest obligations, providing a strong buffer against potential financial stress.\n\n### Total Revenue (Growth) Analysis\n\nThe total revenue for the year 2024 is AED 35,505 Mn, up from AED 26,750 Mn in 2023, representing a 32% increase.\n\n- **Revenue Breakdown**: The revenue growth is driven by various segments, with significant contributions from leasing, real estate, and retail. The leasing segment alone contributed AED 17,833,346, while real estate and retail segments added AED 7,124,927 and AED 1,791,548, respectively.\n\n- **Component\u2019s Share in Total Revenue**: Leasing remains the largest contributor to total revenue, followed by real estate and retail. This diversified revenue stream indicates a balanced business model with multiple income sources.\n\nOverall, the borrower demonstrates a strong financial position with healthy liquidity, a conservative capital structure, and robust revenue growth. The ability to service debt is well-supported by high operating profits, and the company appears to be effectively managing its financial obligations."
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": "The real estate valuation report for a property associated with Emaar Properties, located at 604, Al Barsha Business Centre, Al Barsha 1, Dubai, UAE, provides an assessment of its market value. The property is evaluated with a reconciled opinion of value at $5,000,000, with an estimated marketing time of 9 to 12 months.",
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": "### Risk Analysis Commentary for Emaar Properties\n\n#### Credit Score Trend Analysis\nOver the past eight months, Emaar Properties has shown a fluctuating credit score trend. The company's credit score improved significantly from a low of 13 in July 2024 to a high of 65 in December 2024, before stabilizing at 60 in February 2025. This indicates a positive trend in creditworthiness, moving from a high-risk category to a low to medium risk category. Compared to the industry average, Emaar's score is consistently higher, suggesting better credit management than its peers.\n\n#### Financial Stability Risk\nEmaar Properties has a Financial Stability Risk Rating of 1, indicating a low risk of payment default or bankruptcy within the next 12 months. This rating places the company in a favorable position, reflecting strong financial health and stability compared to industry standards.\n\n#### Days Beyond Terms (DBT) Analysis\nThe current DBT for Emaar Properties is 60 days, significantly higher than the industry average of 15 days. This suggests that the company is paying its bills much later than its industry counterparts, which could be a concern for cash flow management and supplier relationships.\n\n#### Payment Trend Analysis\nThe payment trend for Emaar Properties shows some variability. While the company maintained a 100% current payment status from August to November 2024, there was a slight decline in December 2024, with 6% of payments falling into the 0-30 DBT category. However, the situation improved in January and February 2025, with the majority of payments being current. Despite the high DBT, the overall payment pattern suggests a stable trend with occasional delays.\n\n#### Legal Judgments\nThere is one pending legal judgment against Emaar Properties, filed on 11th March 2015 in Dubai, with a liability amount of AED 2675. While this is a relatively small amount, it is important for the company to address this to avoid potential legal complications.\n\n### Conclusion\nEmaar Properties demonstrates a generally positive credit and financial stability profile, with a strong credit score and low financial stability risk. However, the high DBT indicates a need for improved payment practices to align more closely with industry standards. Addressing the pending legal judgment will also be beneficial for maintaining a clean financial record."
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": "### Justification for RISK ANALYSIS SECTION\nCustomer risk score is 60, which is satisfactory and potentially risky to lend.\n\n### Justification for SECURITY\nReal estate security has an estimated market value of $5,000,000, which is good and sufficient for the loan, and no more collateral is needed.\n\n### Justification for FINANCIAL ANALYSIS\nCovenants for all ratios are met in forecast models, and the financial position seems strong.",
+        "relationship_managers_comments": null
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "credit_application_name": null,
+    "prepared_by": "John Doe",
+    "date": null,
+    "borrower_details": {
+        "borrower_name": null,
+        "date_of_application": null,
+        "type_of_business": null,
+        "risk_rating": null,
+        "new_or_existing": null,
+        "naics_code": null,
+        "borrower_address": null,
+        "telephone": null,
+        "email_address": null,
+        "fax_number": null,
+        "branch_number": null,
+        "account_number": null
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": null
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "Based on the provided content, here are the profiles of the key management people from the Board of Directors:\n\n- **Mr. Jamal Bin Theniyah**: Chairman with 13 years on the Board. He has extensive experience in leadership and entrepreneurship, contributing significantly to strategic management and governance. His business acumen is well-regarded, particularly in the real estate industry.\n\n- **Mr. Ahmed Jawa**: Vice Chairman with 19 years on the Board. He brings a wealth of experience in finance and management, with a strong reputation for strategic oversight and governance within the company.\n\n- **Mr. Mohamed Ali Alabbar**: Managing Director with 27 years on the Board. Known for his entrepreneurial spirit and leadership, he has played a pivotal role in the company's innovation and global expansion strategies.\n\n- **Mr. Buti Al Mulla**: Director with 3 years and 9 months on the Board, appointed on 11 April 2021. He contributes to the board with his expertise in strategic management and governance.\n\n- **Ms. Eman Abdulrazzaq**: Director with 3 years and 9 months on the Board, appointed on 11 April 2021. She is recognized for her contributions to innovation and digital transformation within the company.\n\n- **H.E. Ahmad Bin Meshar**: Director with a focus on governance and ethical practices. His role emphasizes compliance and legal oversight, ensuring the company's adherence to regulations.\n\n- **H.E. Abdulla Alfalasi**: Director with 8 months on the Board, appointed on 22 April 2024. He is involved in strategic management and governance, bringing fresh perspectives to the board.\n\n- **H.E. Omar BuShahab**: Director known for his expertise in stakeholder engagement and governance. He plays a crucial role in managing the company's impacts and sustainability reporting.\n\n- **Mr. Omar Karim**: Director with a focus on risk management and ethical practices. His responsibilities include overseeing the company's compliance with laws and regulations."
+    },
+    "financial_analysis": {
+        "ratios": "",
+        "analysis": "### Current Ratio Analysis\n\nThe current ratio of 1.5 indicates a healthy liquidity position, suggesting that the borrower has 1.5 times more current assets than current liabilities. This is a positive indicator of the company's ability to meet its short-term obligations. \n\n- **Trade Receivables and Payables**: Compared to the previous year, trade receivables have decreased from AED 17,255,072 to AED 15,484,276, marking a decrease of approximately 10.3%. This reduction could indicate improved collection efficiency or a decrease in sales. On the other hand, trade payables have increased from AED 14,737,470 to AED 17,570,826, an increase of about 19.2%. This rise might suggest extended payment terms with suppliers or increased purchasing activity.\n\n- **Due Within 12 Months vs. After 12 Months**: The financial statements do not explicitly break down the amounts due within 12 months versus after 12 months for trade receivables and payables. However, given the nature of these accounts, they are typically expected to be settled within the operating cycle, usually within 12 months.\n\n- **Bad Debts or Impairments**: There is no specific mention of bad debts or impairments in the current year versus the last year in the provided data. However, the provision for doubtful receivables and advances was AED 39,897 in 2024, compared to AED 61,805 in 2023, indicating a decrease in expected credit losses.\n\n### Debt to Equity Ratio Analysis\n\nThe debt-to-equity ratio of 0.4 reflects a conservative capital structure, with a relatively low level of debt compared to equity. This suggests that the company is not heavily reliant on debt financing, which is favorable from a risk perspective.\n\n- **Loans and Borrowings**: The total interest-bearing loans and borrowings decreased from AED 3,098,678 in 2023 to AED 3,265,390 in 2024, representing an increase of approximately 5.4%. This change is primarily due to new loans taken during the year, as indicated by the proceeds from interest-bearing loans and borrowings amounting to AED 904,825, offset by repayments of AED 738,167.\n\n- **Loan Instruments**: The sukuk decreased significantly from AED 9,171,882 to AED 6,421,094, indicating a repayment or restructuring of these instruments. This reduction in sukuk liabilities contributes to the overall decrease in the debt-to-equity ratio.\n\n### Interest Coverage Ratio Analysis\n\nThe interest coverage ratio of 21 indicates a strong ability to cover interest expenses with operating profits. This is a significant improvement from the previous year, reflecting enhanced profitability or reduced finance costs.\n\n- **Finance Costs**: Finance costs decreased from AED 1,039,466 in 2023 to AED 940,914 in 2024, a reduction of approximately 9.5%. This decrease in finance costs, coupled with an increase in profit before tax, enhances the company's ability to service its debt.\n\n- **Implications**: The improved interest coverage ratio suggests that the company is in a strong position to meet its interest obligations, reducing the risk of financial distress and enhancing its creditworthiness.\n\n### Total Revenue (Growth) Analysis\n\nThe total revenue grew by 32% from AED 26,749,821 in 2023 to AED 35,504,920 in 2024. This robust growth indicates a strong performance across the company's operations.\n\n- **Revenue Breakdown**: The revenue from leasing, retail, and related activities increased significantly, contributing to the overall revenue growth. The segmental breakdown shows that revenue from external customers over a period of time increased from AED 21,089,066 to AED 30,089,672, while point-in-time revenue slightly decreased.\n\n- **Component Share**: The leasing and retail segment remains the largest contributor to total revenue, followed by hospitality and other segments. The growth in these areas underscores the company's successful expansion and operational efficiency.\n\nOverall, the financial analysis indicates a strong financial position and performance for the borrower, with healthy liquidity, a conservative capital structure, improved debt servicing capacity, and robust revenue growth. These factors collectively enhance the company's credit profile and support its loan application."
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": null,
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": null
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": null,
+        "relationship_managers_comments": null
+    }
+}

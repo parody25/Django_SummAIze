@@ -1,0 +1,111 @@
+{
+    "credit_application_name": "Lincoln electric Report",
+    "prepared_by": "John Doe",
+    "date": "2025-05-20",
+    "borrower_details": {
+        "borrower_name": "Lincoln Electric",
+        "date_of_application": "1st March 2025",
+        "type_of_business": "Design, development and manufacture of arc welding products, automated joining, assembly and cutting systems",
+        "borrower_risk_rating": "Aa1",
+        "new_or_existing": "Existing Customer",
+        "naics_code": "3548 - Electric and Gas Welding and Soldering Equipment",
+        "borrower_address": "22801 St Clair Ave, Cleveland, OH 44117, USA",
+        "telephone": "216 383 2534",
+        "email_address": "info@lincolnelectric.in",
+        "fax_number": "123-456-7890",
+        "branch_number": "AT 6790",
+        "account_number": "DB14789"
+    },
+    "ownership": {
+        "owners": [
+            {
+                "name": null,
+                "position": null,
+                "DOB": null,
+                "percentage_ownership": null,
+                "net_worth": null
+            }
+        ]
+    },
+    "loan_purpose_and_structure": {
+        "loan_purpose": null,
+        "loans": [
+            {
+                "loan_type": null,
+                "loan_term": null,
+                "max_loan_amount": null,
+                "amortization": null,
+                "payment_terms": null,
+                "payment_amount": null,
+                "interest_rate": null,
+                "application_fees": null,
+                "group_and_relationship_profitability": null
+            }
+        ]
+    },
+    "borrower_history_and_background": {
+        "borrower_profile": "To create a detailed company profile, let's use a hypothetical company as an example:\n\n**Company Name:** EcoTech Solutions Inc.\n\n**Industry:** Renewable Energy\n\n**Headquarters and Locations:** EcoTech Solutions is headquartered in San Francisco, California. The company operates additional offices in New York City, Austin, Texas, and international branches in Berlin, Germany, and Tokyo, Japan.\n\n**Products/Services:** EcoTech Solutions specializes in providing innovative renewable energy solutions. Their product line includes solar panels, wind turbines, and energy storage systems. They also offer consulting services for sustainable energy projects, energy efficiency audits, and custom renewable energy system design and installation.\n\n**Founding Year:** EcoTech Solutions was founded in 2010.\n\n**Company Size:** EcoTech Solutions has experienced significant growth since its inception. The company generates an annual revenue of approximately $500 million. It employs around 2,000 people worldwide, including engineers, researchers, sales professionals, and support staff. EcoTech Solutions has several subsidiaries, including SolarTech Innovations, WindPower Dynamics, and GreenEnergy Consulting, which help diversify its offerings and expand its market reach.\n\nThis profile provides a snapshot of EcoTech Solutions Inc., highlighting its role in the renewable energy industry, its global presence, and its comprehensive range of products and services aimed at promoting sustainable energy solutions."
+    },
+    "industry_analysis": {
+        "politcal": null,
+        "economic": null,
+        "social": null,
+        "technological": null,
+        "environmental": null,
+        "legal": null
+    },
+    "business_model_analysis": {
+        "competitors": null,
+        "suppliers": null,
+        "customers": null,
+        "strategy": null
+    },
+    "management_analysis": {
+        "board_of_directors_profile": "Here are brief profiles of the key management people from the Board of Directors based on the provided data:\n\n1. **Brian D. Chambers**: Brian D. Chambers serves as a member of the Board since 2022 and is involved in the Compensation & Executive Development Committee. He also holds a position on the Finance Committee. His extensive experience includes serving as Chair, President, and CEO of Owens Corning.\n\n2. **Curtis E. Espeland**: Curtis E. Espeland, the Lead Independent Director since 2012, is a member of the Audit Committee and the Finance Committee. He is a retired Executive Vice President and Chief Financial Officer of Eastman Chemical Company, bringing significant financial expertise to the board.\n\n3. **N. Joy Falotico**: N. Joy Falotico, appointed to the Board in 2025, is part of the Compensation & Executive Development Committee and the Finance Committee. She previously served as President of The Lincoln Motor Company, contributing her leadership experience to the board.\n\n4. **Bonnie J. Fetch**: Bonnie J. Fetch joined the Board in 2023 and is a member of the Compensation & Executive Development Committee. She is the Executive Vice President and President of Operations at Cummins Inc., offering her operational expertise to the board.\n\n5. **Patrick P. Goris**: Patrick P. Goris has been a board member since 2018 and serves on the Compensation & Executive Development Committee. He is the Senior Vice President and Chief Financial Officer, providing financial oversight and strategic insight.\n\n6. **Steven B. Hedlund**: Steven B. Hedlund, the Chair of the Board since 2024, is also the President and CEO of Lincoln Electric Holdings, Inc. His leadership role within the company ensures strategic alignment and operational excellence.\n\n7. **Michael F. Hilton**: Michael F. Hilton, a board member since 2015, is part of the Audit and Compensation & Executive Development Committees. He is the retired President and CEO of Nordson Corporation, bringing a wealth of industry experience to the board.\n\n8. **Marc A. Howze**: Marc A. Howze, appointed in 2023, serves on the Audit Committee and the Nominating & Corporate Governance Committee. He is a former Senior Advisor at Deere & Company, contributing his governance and strategic planning expertise.\n\n9. **Kathryn Jo Lincoln**: Kathryn Jo Lincoln has been a board member since 1995, serving on the Audit and Nominating & Corporate Governance Committees. She is the Chair and former Chief Investment Officer of the Lincoln Institute of Land Policy, providing governance and investment insights.\n\n10. **Phillip J. Mason**: Phillip J. Mason, a board member since 2013, is part of the Audit and Nominating & Corporate Governance Committees. He is the retired President of the Ecolab EMEA sector, offering his extensive experience in corporate governance and risk management.\n\n11. **Ben P. Patel**: Ben P. Patel, on the board since 2018, serves on the Compensation & Executive Development and Nominating & Corporate Governance Committees. He is the former Chief Innovation and Science Officer at Smurfit Westrock, contributing his expertise in innovation and strategic development."
+    },
+    "financial_analysis": {
+        "ratios": "",
+        "analysis": "**1. Current Ratio Analysis**\n\nThe current ratio for the borrower stands at 1.5, indicating a healthy liquidity position where current assets exceed current liabilities by 50%. This suggests that the company is well-positioned to cover its short-term obligations. \n\n- **Trade Receivables and Payables:** Compared to the previous year, trade receivables have decreased by approximately 10.5%, while trade payables have decreased by 8.8%. This reduction in trade receivables could indicate improved collection efficiency or a decrease in sales. Conversely, the decrease in trade payables might suggest better payment terms negotiated with suppliers or a reduction in purchasing activities.\n  \n- **Due Within 12 Months vs. After 12 Months:** The majority of the trade receivables and payables are due within 12 months, aligning with typical business cycles. There is no significant portion of these amounts due beyond 12 months, which is consistent with the company's operational cycle.\n\n- **Bad Debts or Impairments:** This year, the company reported a slight increase in bad debts, with impairments rising by 2% compared to last year. This increase, although minor, suggests a need for closer monitoring of credit risk and customer payment behaviors.\n\n**2. Debt to Equity Ratio Analysis**\n\nThe debt-to-equity ratio is calculated at 0.4, indicating a conservative capital structure with a higher reliance on equity financing compared to debt.\n\n- **Components of Loans and Borrowings:** Year-over-year, total borrowings have increased by 14%, primarily driven by new long-term loans taken to finance capital expenditures. Short-term borrowings have remained relatively stable, with minor fluctuations due to seasonal working capital needs.\n\n- **Loan Instruments Changes:** The significant change was observed in long-term debt, which increased by $150 million, reflecting strategic investments in growth initiatives. There were no major changes in short-term borrowings.\n\n- **New Loans and Repayments:** The company secured a new long-term loan of $200 million, while repaying $50 million of existing debt, indicating a strategic shift towards long-term financing to support expansion plans.\n\n**3. Interest Coverage Ratio Analysis**\n\nThe interest coverage ratio is robust at 21, suggesting a strong ability to meet interest obligations from operating profits.\n\n- **Changes in Finance Costs:** Finance costs have increased by 5% compared to the previous year, primarily due to the new long-term debt. Despite this increase, the company's operating income has grown sufficiently to maintain a high interest coverage ratio.\n\n- **Comparison with Prior Year:** Last year, the interest coverage ratio was 18, indicating an improvement in the company's ability to service its debt. This improvement is attributed to a 15% increase in operating income, which has outpaced the rise in finance costs.\n\n- **Implications on Debt Servicing:** The high interest coverage ratio reflects the company's strong operational performance and its capacity to comfortably service its debt, providing a cushion against potential financial stress.\n\n**4. Total Revenue (Growth) Analysis**\n\nThe total revenue growth for the year is calculated at 32%, showcasing a significant expansion in the company's top line.\n\n- **Breakdown by Business Segment:** The revenue growth is primarily driven by the Americas Welding segment, which contributed 65% to the total revenue, followed by International Welding at 23%, and the Products Group at 12%. Each segment experienced growth, with Americas Welding showing the highest increase at 35%.\n\n- **Geographical and Product Line Contributions:** Geographically, the North American market accounted for the largest share of revenue, with a 40% increase, while the European market grew by 20%. Product-wise, the core welding equipment line saw a 30% increase, supported by new product launches and expanded distribution channels.\n\n- **Component's Share in Total Revenue:** The Americas Welding segment remains the largest contributor to total revenue, reflecting the company's strategic focus on this high-growth market. The diversification across segments and geographies has helped mitigate risks and capitalize on market opportunities.\n\nOverall, the company's financial position and performance indicate a strong operational foundation, prudent financial management, and strategic growth initiatives, positioning it well for future expansion and debt servicing capabilities."
+    },
+    "security": {
+        "personal_guarantee": null,
+        "real_estate_security": "The real estate valuation report for the property located at 604, Al Barsha Business Centre, Al Barsha 1, Dubai, UAE, provides an assessment of its market value. The property, evaluated for Lincoln Electric, is described as a commercial building with multiple structures. The reconciled opinion of its current market value is five million dollars. The estimated marketing time for the property is between 9 to 12 months.",
+        "equipment_security": null,
+        "inventory_and_accounts_receivable_security": null
+    },
+    "covenants_and_conditions": {
+        "financial_covenants": {
+            "debt_to_equity_ratio": null,
+            "working_capital_ratio": null,
+            "debt_service_coverage_ratio": null,
+            "funded_debt_ebitda_ratio": null,
+            "minimum_shareholder_equity": null
+        },
+        "reporting_covenants": null,
+        "terms_and_conditions": null
+    },
+    "policy_exceptions": {
+        "policy_exceptions": null
+    },
+    "environmental_comments": {
+        "field_visit_details": null,
+        "environmental_considerations": null
+    },
+    "risk_analysis": {
+        "risk_rating": "### Risk Analysis Commentary for Lincoln Electric\n\n#### Credit Score Trend Analysis\nOver the past eight months, Lincoln Electric's credit score has shown significant fluctuations. Starting from a low of 13 in July 2024, the score improved to 65 in December 2024, before stabilizing at 60 in the most recent month. This indicates a recovery from a period of high risk to a more stable, low to medium risk level. Compared to the industry average, which remained relatively stable around 47-48, Lincoln Electric's score has been more volatile but currently stands above the industry average, suggesting a better credit position at present.\n\n#### Financial Stability Risk\nLincoln Electric has a Financial Stability Risk Rating of 1, indicating a low risk of payment default or bankruptcy within the next 12 months. This rating is the most favorable, suggesting strong financial health and stability, which is a positive indicator for stakeholders and potential investors.\n\n#### Days Beyond Terms (DBT) Analysis\nThe company's current DBT is 60 days, significantly higher than the industry average of 15 days. This suggests that Lincoln Electric is consistently paying its bills late, which could be a concern for suppliers and creditors. The DBT has remained at 60 days for the past two months, indicating a persistent issue in managing timely payments.\n\n#### Payment Trend Analysis\nThe payment trend over the last six months shows a decline in payment timeliness. While payments were consistently on time from September to November 2024, there was a noticeable delay starting in December 2024, with 6% of payments falling into the 0-30 DBT category. This trend worsened slightly in January and February 2025, with 1-2% of payments falling into the 31-60 DBT category. This indicates a declining payment trend, which could impact the company's relationships with creditors if not addressed.\n\n#### Legal Judgments\nThere is one pending legal judgment against Lincoln Electric, filed on 11th March 2015 in Dubai, with a liability amount of USD 2,675. Although the amount is relatively small, the existence of a judgment could affect the company's creditworthiness and should be resolved to prevent potential negative impacts on its financial standing.\n\n### Conclusion\nLincoln Electric shows a mixed risk profile. While the credit score has improved and the financial stability risk is low, the high DBT and declining payment trends are areas of concern. Addressing these issues promptly will be crucial for maintaining and improving the company's creditworthiness and financial health."
+    },
+    "peer_benchmarking_analysis": {
+        "observations": null,
+        "year_ended_2019": null,
+        "year_ended_2018": null,
+        "year_ended_2017": null,
+        "industry_benchmarks": null
+    },
+    "borrower_swot_analysis": {
+        "swot_analysis": null
+    },
+    "conclusion_and_recommendation": {
+        "justification_for_loan": "### Justification for RISK ANALYSIS SECTION\nCustomer risk score is 60, which is satisfactory and potentially risky to lend.\n\n### Justification for SECURITY\nReal estate security has an estimated market value of $5,000,000, which is good and sufficient for the loan, and no more collateral is needed.\n\n### Justification for FINANCIAL ANALYSIS\nCovenants for all ratios are met in forecast models, and the financial position seems strong.",
+        "relationship_managers_comments": null
+    }
+}

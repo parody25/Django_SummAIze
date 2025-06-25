@@ -1,0 +1,35 @@
+{
+    "Current Ratio": {
+      "description": "Current assets(Current year)/Current Liabilities(Current year)",
+      "calculatedValue": 1.5,
+      "keywords": [
+        "trade receivables",
+        "prepayments",
+        "bank and cash balance",
+        "trade payables",
+        "advance from customers"
+      ]
+    },
+    "Debt-to-Equity Ratio": {
+      "description": "(Borrowings(Current year))/Equity(Current year)",
+      "calculatedValue": 0.4,
+      "keywords": [
+        "loans and borrowings"
+      ]
+    },
+    "Interest Coverage Ratio": {
+      "description": "Profit (loss) from operating activities(Current year)/Finance costs(Current year)",
+      "calculatedValue": 21,
+      "keywords": [
+        "finance costs"
+      ]
+    },
+    "Total Revenue (growth)": {
+      "description": "(Revenue(Current year)-Revenue(Previous year))*100/Revenue(Previous year)",
+      "calculatedValue": "32%",
+      "keywords": [
+        "revenue"
+      ]
+    }
+  }
+  

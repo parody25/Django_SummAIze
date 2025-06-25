@@ -1,0 +1,8 @@
+Retrieve the section of the document that contains the company's financial statements. This should include:
+
+- The Income Statement[also called Profit and Loss Statement/Statement of Earnings] (covering revenues, expenses, and net income)
+- The Balance Sheet[also called Statement of Financial Position] (detailing assets, liabilities, and equity)
+- The Cash Flow Statement (showing cash inflows and outflows from operating, investing, and financing activities)
+- The Statement of Changes in Equity (showing movement in share capital, retained earnings, and reserves)
+
+Focus only on the actual tabular or narrative financial data and headings related to these statements, not introductory or summary text.
